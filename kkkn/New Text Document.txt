@@ -1,0 +1,7 @@
+server.js        ← entry point i serverit
+package.json     ← libraritë dhe komandat
+routes/          ← folder me rrugët e API-ve
+controllers/     ← folder me logjikën e backend-it
+dashboard/       ← folder për admin panel
+AI/              ← folder për AI sugjerime
+.env.example     ← shembull për çelësat sekret
